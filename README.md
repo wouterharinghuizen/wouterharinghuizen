@@ -1,6 +1,4 @@
-Greetings, I'm Wouter! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-I am currently pursuing my Masters in Artificial Intelligence at the University of Amsterdam, and have a keen interest in Machine Learning, Deep Learning, and related fields. As a student, I dedicate most of my time to studying these subjects.
-
+Hi! I am Wouter, an AI master's student at the University of Amsterdam. Co-founding a Dutch startup that uses AI for the dutch real estate market, I'm dedicated to pushing technological boundaries. With an 8.17/10 bachelor's average and TA experience, I'm committed to leveraging AI for innovative solutions.
 :mailbox: How to get in touch with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wouter-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wouterharinghuizen/)
