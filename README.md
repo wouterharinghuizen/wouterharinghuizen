@@ -16,7 +16,6 @@ Programming Languages:
  
 Frameworks: 
   - Pytorch
-  - Tensorflow
   - Scikit-learn
 
 
